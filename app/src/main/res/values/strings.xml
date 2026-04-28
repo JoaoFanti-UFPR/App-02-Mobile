@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">Cine Nossol</string>
+    <string name="app_name">Filmes Nossol</string>
+    <string name="search_hint">Buscar por título</string>
+    <string name="btn_search">Buscar</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_watched">Assistidos</string>
+    <string name="filter_to_watch">Desejados</string>
+    <string name="add_movie">Adicionar Filme</string>
+    <string name="label_title">Título do Filme</string>
+    <string name="hint_title">Ex: O Poderoso Chefão</string>
+    <string name="label_genre">Gênero</string>
+    <string name="hint_genre">Ex: Drama</string>
+    <string name="label_year">Ano de Lançamento</string>
+    <string name="hint_year">Ex: 1972</string>
+    <string name="label_rating">Nota (0-5)</string>
+    <string name="hint_rating">0 a 5</string>
+    <string name="label_status">Status</string>
+    <string name="status_watched">Assistido</string>
+    <string name="status_to_watch">Desejado</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_delete">Excluir Filme</string>
+    <string name="msg_fill_all">Por favor, preencha todos os campos.</string>
+    <string name="msg_invalid_rating">A nota deve ser entre 0 e 5.</string>
+    <string name="msg_invalid_year">Ano inválido.</string>
+    <string name="msg_success_add">Filme adicionado com sucesso!</string>
+    <string name="msg_success_update">Filme atualizado com sucesso!</string>
+    <string name="msg_deleted">Filme removido!</string>
+    <string name="title_edit">Editar Filme</string>
+    <string name="title_new">Novo Filme</string>
+    <string name="label_total">Total: %1$d</string>
+    <string name="label_avg">Média: %1$.1f</string>
 </resources>
