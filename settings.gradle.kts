@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Cine Nossol"
+rootProject.name = "Filmes Nossol"
 include(":app")
  
